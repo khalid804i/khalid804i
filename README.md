@@ -91,4 +91,11 @@ Relevant coursework: Data Structures & Algorithms, Object Oriented Programming, 
 ---
 
 ### 📊 GitHub Stats
-<p align="left"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=khalid804i&show_icons=true&theme=dark&count_private=true" /> <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=khalid804i&show_icons=true&theme=default&count_private=true" /> <img src="https://github-stats-extended.vercel.app/api?username=khalid804i&show_icons=true&theme=default&count_private=true" alt="khalid804i's GitHub stats" height="165"/> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=khalid804i&theme=dark" /> <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=khalid804i&theme=default" /> <img src="https://streak-stats.demolab.com/?user=khalid804i" alt="khalid804i's streak stats" height="165"/> </picture> </p> <p align="left"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=khalid804i&layout=compact&theme=dark" /> <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=khalid804i&layout=compact&theme=default" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khalid804i&layout=compact&theme=default" alt="khalid804i's top languages" height="165"/> </picture> </p>
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=khalid804i&show_icons=true&theme=default&count_private=true" alt="khalid804i's GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=khalid804i" alt="khalid804i's streak stats" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khalid804i&layout=compact&theme=default" alt="khalid804i's top languages" height="165"/>
+</p>

@@ -92,11 +92,4 @@ Relevant coursework: Data Structures & Algorithms, Object Oriented Programming, 
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=khalid804i&show_icons=true&theme=default&count_private=true" alt="khalid804i's GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=khalid804i" alt="khalid804i's streak stats" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khalid804i&layout=compact&theme=default" alt="khalid804i's top languages" height="165"/>
-</p>
+<p align="left"> <img src="https://github-stats-extended.vercel.app/api?username=khalid804i&show_icons=true&theme=default&count_private=true" alt="khalid804i's GitHub stats" height="165"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalid804i&theme=github&hide_border=true" alt="khalid804i's activity graph" height="165"/> </p> <p align="left"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khalid804i&layout=compact&theme=default" alt="khalid804i's top languages" height="165"/> </p>

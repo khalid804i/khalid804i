@@ -89,13 +89,13 @@ Relevant coursework: Data Structures & Algorithms, Object Oriented Programming, 
 - **GenAI Powered Data Analytics Job Simulation** — Forage, May 2026 *(EDA, AI-based risk prediction, data storytelling for business decision-making)*
 
 ---
-
 ### 📊 GitHub Stats
+
 <p align="left">
-<img src="https://github-stats-extended.vercel.app/api?username=khalid804i&show_icons=true&theme=default&count_private=true" alt="khalid804i's GitHub stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=khalid804i" alt="khalid804i's streak stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khalid804i&show_icons=true&theme=default" alt="Khalid Waleed's GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=khalid804i&theme=default" alt="Khalid Waleed's GitHub streak" height="165"/>
 </p>
 
 <p align="left">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khalid804i&layout=compact&theme=default" alt="khalid804i's top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid804i&layout=compact&theme=default" alt="Khalid Waleed's top languages" height="165"/>
 </p>

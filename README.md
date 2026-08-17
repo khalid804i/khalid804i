@@ -74,6 +74,7 @@ Full-stack inventory system built with **ASP.NET Core 6.0 MVC, C#, Entity Framew
 ML system predicting student academic performance from a Kaggle dataset. Compared **Logistic Regression, Decision Tree, Random Forest, and MLP Neural Network**, plus K-Means clustering for pattern discovery. Random Forest tuned via 5-fold cross-validation and GridSearchCV, evaluated on accuracy/precision/recall/F1/confusion matrix. Deployed as an interactive **Streamlit** app with Matplotlib/Seaborn visualizations.
 `Python` `scikit-learn` `Streamlit` `Pandas` `Matplotlib` `Seaborn`
 
+*(Replace `REPO-NAME` with the actual repo links once these are pushed, and pin these three on your profile.)*
 
 ---
 
@@ -92,4 +93,15 @@ Relevant coursework: Data Structures & Algorithms, Object Oriented Programming, 
 
 ### 📊 GitHub Stats
 
-<p align="left"> <img src="https://github-stats-extended.vercel.app/api?username=khalid804i&show_icons=true&theme=default&count_private=true" alt="khalid804i's GitHub stats" height="165"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalid804i&theme=github&hide_border=true" alt="khalid804i's activity graph" height="165"/> </p> <p align="left"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khalid804i&layout=compact&theme=default" alt="khalid804i's top languages" height="165"/> </p> <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=khalid804i&theme=flat&no-frame=true&row=1&column=6" alt="khalid804i's trophies" /> </p>
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=khalid804i&show_icons=true&theme=default&count_private=true" alt="khalid804i's GitHub stats" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khalid804i&theme=github&hide_border=true" alt="khalid804i's activity graph" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khalid804i&layout=compact&theme=default" alt="khalid804i's top languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khalid804i/khalid804i/output/github-contribution-grid-snake.svg" alt="khalid804i's contribution snake" />
+</p>
